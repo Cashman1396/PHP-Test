@@ -16,9 +16,15 @@
 <div id="site-header">
    
 	<h1><a href="<?php echo get_site_url(); ?>"><?php bloginfo('title') ?></a></h1>
-    
+
+   
+				
+			</div>
     
 </div>
+
+    
+			
 
 <div id='site-container'>
 	<div id='site-content'>

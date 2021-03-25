@@ -17,6 +17,9 @@ function mat_widget_areas() {
 		'before_title'  => '<h3 class="widget-title">',
 		'after_title'   => '</h3>',
     ));
+
+
+ 
 }
 
 
