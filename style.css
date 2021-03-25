@@ -1,0 +1,79 @@
+/*
+Theme Name: My Space Theme
+
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: themes
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+body {
+    background:darkcyan;
+}
+
+
+
+a:any-link {
+    color:purple;
+}
+
+a:hover {
+    color: orange;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+html {
+	height: 100%;
+	background:#444;
+	font-family: "Helvetica Neue", Arial, sans-serif;
+	line-height: 1.5em;
+}
+
+#site-header {
+	text-align: center;
+}
+
+#site-header h1 {
+	font-size:32px;
+	color: #ffffff;
+	font-weight: 300;
+	letter-spacing: 1px;
+    text-align: center;
+}
+
+#site-container {
+	width: 855px;
+	margin: 0px auto;
+    margin-right: 262px;
+}
+
+#site-sidebar {
+    margin: 10px;
+	width:220px;
+	padding: 22px;
+	border-radius:5px;
+	background: #fff;
+}
+
+#site-content {
+	margin-right: 10px;
+	background: #fff;
+	padding: 10px;
+	border-radius:5px;
+    
+}
+
+
+#site-footer {
+	clear:both;
+	color: #fff;
+	text-align:center;
+	font-size:12px;
+	text-transform: uppercase;
+}
